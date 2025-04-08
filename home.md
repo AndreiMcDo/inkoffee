@@ -21,3 +21,4 @@ dateCreated: 2025-03-30T12:15:39.169Z
     50% { transform: scale(1.1); }
     100% { transform: scale(1); }
 }
+# Руководство по разметке в markdown
