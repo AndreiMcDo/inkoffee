@@ -2,7 +2,7 @@
 title: Политика конфиденциальности
 description: Политика конфиденциальности
 published: true
-date: 2025-04-09T19:43:22.985Z
+date: 2025-04-09T19:46:53.823Z
 tags: персональные данные
 editor: markdown
 dateCreated: 2025-04-09T18:49:37.960Z
