@@ -1,8 +1,8 @@
 ---
-title: Instructions for deleting personal data
+title: Запрос на удаление персональных данных
 description: Порядок действия для удаления персональных данных
 published: true
-date: 2025-04-09T18:36:51.756Z
+date: 2025-04-09T18:42:27.819Z
 tags: персональные данные
 editor: markdown
 dateCreated: 2025-04-09T18:36:51.756Z
