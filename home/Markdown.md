@@ -2,7 +2,7 @@
 title: Руководство по разметке в Markdown
 description: Разметка Markdown
 published: true
-date: 2025-04-08T21:22:47.529Z
+date: 2025-04-11T16:23:25.656Z
 tags: стиль, техническая документация, разметка
 editor: markdown
 dateCreated: 2025-04-08T21:22:47.529Z
@@ -126,5 +126,7 @@ print("Hello, world!")
 ## Заключение
 Markdown — мощный и простой язык разметки, который удобен для быстрого оформления текста. Освоив основные элементы, можно легко создавать структурированные документы.
 
+<img src="/image.png" style="border-radius: 50%;" onmouseover="document.getElementById('audio').play()" onmouseout="document.getElementById('audio').pause()">
+<audio id="audio" src="/path/to/your/audio.mp3"></audio>
 
 <img src="/image.png" style="border-radius: 50%;">
