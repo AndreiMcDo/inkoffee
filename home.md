@@ -2,7 +2,7 @@
 title: База знаний
 description: Сводная страница разделов WIKI
 published: true
-date: 2025-04-11T07:52:52.451Z
+date: 2025-04-11T07:57:15.699Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T12:15:39.169Z
@@ -37,7 +37,7 @@ dateCreated: 2025-03-30T12:15:39.169Z
   <div style="text-align: center;">
     <a href="/home/Markdown" target="_blank">
       <img 
-        src="/u6639615556_draw_a_funny_cover_for_the_book_technical_documen_3b94d54b-760a-4b54-bc69-f76d418592dc_2.png"
+        src="/u6639615556_ill_draw_a_funny_picture_of_two_people_arguing_ab_5f6a47e7-c821-425e-80e1-f0456353a5dc_0.png"
         class="hover-zoom"
         title="РАЗМЕТКА"
         style="border-radius: 25px; animation: pulse 1.5s infinite; width: 200px; height: auto;">
