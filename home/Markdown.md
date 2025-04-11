@@ -2,7 +2,7 @@
 title: Руководство по разметке в Markdown
 description: Разметка Markdown
 published: true
-date: 2025-04-11T16:23:25.656Z
+date: 2025-04-11T16:30:08.407Z
 tags: стиль, техническая документация, разметка
 editor: markdown
 dateCreated: 2025-04-08T21:22:47.529Z
@@ -128,5 +128,3 @@ Markdown — мощный и простой язык разметки, кото�
 
 <img src="/image.png" style="border-radius: 50%;" onmouseover="document.getElementById('audio').play()" onmouseout="document.getElementById('audio').pause()">
 <audio id="audio" src="/path/to/your/audio.mp3"></audio>
-
-<img src="/image.png" style="border-radius: 50%;">
