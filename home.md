@@ -2,7 +2,7 @@
 title: База знаний
 description: Сводная страница разделов WIKI
 published: true
-date: 2025-04-11T18:42:42.137Z
+date: 2025-04-11T20:16:02.826Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T12:15:39.169Z
@@ -33,3 +33,14 @@ dateCreated: 2025-03-30T12:15:39.169Z
       <div class="tooltip-text">РАЗМЕТКА</div>
     </a>
   </div>
+  
+  <div style="text-align: center;">
+    <a href="/home/Markdown" target="_blank" class="tooltip-container">
+      <img 
+        src="/u6639615556_stern_lady_boss_sits_at_the_table_and_yells_--profi_5c6b6e71-1350-41be-b2d1-12f5c8f00249.png"
+        class="hover-zoom"
+        style="border-radius: 25px; animation: pulse 1.5s infinite; width: 200px; height: auto;">
+      <div class="tooltip-text">ШАБЛОНЫ</div>
+    </a>
+  </div>
+  
