@@ -2,7 +2,7 @@
 title: База знаний
 description: Сводная страница разделов WIKI
 published: true
-date: 2025-04-11T16:09:45.968Z
+date: 2025-04-11T16:33:34.182Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T12:15:39.169Z
@@ -11,59 +11,6 @@ dateCreated: 2025-03-30T12:15:39.169Z
 # Руководства
 
 ---
-
-<style>
-  .hover-zoom {
-    transition: transform 0.3s ease;
-  }
-
-  .hover-zoom:hover {
-    transform: scale(1.08);
-  }
-
-  .tooltip-container {
-    position: relative;
-    display: inline-block;
-  }
-
-  .tooltip-text {
-    visibility: hidden;
-    width: max-content;
-    max-width: 200px;
-    background-color: #007BFF;
-    color: #fff;
-    text-align: center;
-    border-radius: 10px;
-    border: 2px solid #000;
-    padding: 8px 12px;
-    position: absolute;
-    z-index: 1;
-    top: 105%; /* Появляется СНИЗУ */
-    left: 50%;
-    transform: translateX(-50%);
-    font-family: 'Comic Sans MS', cursive, sans-serif;
-    font-size: 14px;
-    box-shadow: 3px 3px 0 #000;
-    opacity: 0;
-    transition: opacity 0.3s;
-  }
-
-  .tooltip-container:hover .tooltip-text {
-    visibility: visible;
-    opacity: 1;
-  }
-
-  .tooltip-text::after {
-    content: "";
-    position: absolute;
-    bottom: 100%; /* Стрелка сверху у подсказки */
-    left: 50%;
-    margin-left: -6px;
-    border-width: 6px;
-    border-style: solid;
-    border-color: transparent transparent #000 transparent;
-  }
-</style>
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap; align-items: left; justify-content: left;">
 
