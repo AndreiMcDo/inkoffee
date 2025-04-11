@@ -2,7 +2,7 @@
 title: База знаний
 description: Сводная страница разделов WIKI
 published: true
-date: 2025-04-11T14:41:14.819Z
+date: 2025-04-11T15:13:18.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T12:15:39.169Z
@@ -86,5 +86,5 @@ dateCreated: 2025-03-30T12:15:39.169Z
       <div class="tooltip-text">РАЗМЕТКА</div>
     </a>
   </div>
-
+  
 </div>
