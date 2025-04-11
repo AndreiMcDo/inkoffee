@@ -2,7 +2,7 @@
 title: База знаний
 description: Сводная страница разделов WIKI
 published: true
-date: 2025-04-11T15:59:41.841Z
+date: 2025-04-11T16:07:34.941Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T12:15:39.169Z
@@ -18,8 +18,8 @@ dateCreated: 2025-03-30T12:15:39.169Z
   }
 
   .hover-zoom:hover {
-    transform: scale(1.08);
-  }
+  animation: scatter 0.8s forwards; /* Установите направление анимации */
+}
 
   .tooltip-container {
     position: relative;
@@ -82,7 +82,7 @@ dateCreated: 2025-03-30T12:15:39.169Z
       <img 
         src="/u6639615556_ill_draw_a_funny_picture_of_two_people_arguing_ab_5f6a47e7-c821-425e-80e1-f0456353a5dc_0.png"
         class="hover-zoom"
-        style="border-radius: 25px; animation: pulse 1.5s infinite; width: 200px; height: auto;">
+        style="border-radius: 25px; animation: scatter 5 s forwards; width: 200px; height: auto;">
       <div class="tooltip-text">РАЗМЕТКА</div>
     </a>
   </div>
