@@ -2,7 +2,7 @@
 title: База знаний
 description: Сводная страница разделов WIKI
 published: true
-date: 2025-04-11T15:55:09.535Z
+date: 2025-04-11T15:59:41.841Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T12:15:39.169Z
