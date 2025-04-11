@@ -2,7 +2,7 @@
 title: Руководство по разметке в Markdown
 description: Разметка Markdown
 published: true
-date: 2025-04-11T16:30:08.407Z
+date: 2025-04-11T18:35:56.267Z
 tags: стиль, техническая документация, разметка
 editor: markdown
 dateCreated: 2025-04-08T21:22:47.529Z
