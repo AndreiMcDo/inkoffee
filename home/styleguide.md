@@ -2,7 +2,7 @@
 title: Руководство по стилю изложения технической документации
 description: Документация должна быть написана коротко и ясно, без двусмысленных трактовок, обогащена примерами и хорошо структурирована. Документацию читают в справочном режиме, поэтому важно хорошее структурирование и оформление текста.
 published: true
-date: 2025-04-11T18:36:49.577Z
+date: 2025-04-11T20:17:54.095Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-10T16:35:00.372Z
@@ -27,7 +27,7 @@ dateCreated: 2025-03-10T16:35:00.372Z
 <!-- Интерактивное изображение -->
 <div style="position: relative; display: inline-block;">
   <img 
-    src="/u6639615556_ill_draw_a_funny_picture_of_two_people_arguing_ab_5f6a47e7-c821-425e-80e1-f0456353a5dc_0.png"
+    src="/u6639615556_a_long-awaited_meeting_with_friends_in_a_restaura_fcb5bd8b-9149-438d-b86b-fedcd99c0877_2.png"
     usemap="#peoplemap"
     style="border-radius: 20px; width: 400px; height: auto;">
 
