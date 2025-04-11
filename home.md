@@ -2,7 +2,7 @@
 title: База знаний
 description: Сводная страница разделов WIKI
 published: true
-date: 2025-04-11T07:36:43.934Z
+date: 2025-04-11T07:43:07.121Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T12:15:39.169Z
@@ -35,7 +35,7 @@ dateCreated: 2025-03-30T12:15:39.169Z
   </div>
 
   <div style="text-align: center;">
-    <a href="https://regions.shoko.ru/" target="_blank">
+    <a href="/home/Markdown" target="_blank">
       <img 
         src="/u6639615556_draw_a_funny_cover_for_the_book_technical_documen_3b94d54b-760a-4b54-bc69-f76d418592dc_2.png"
         class="hover-zoom"
@@ -45,6 +45,3 @@ dateCreated: 2025-03-30T12:15:39.169Z
   </div>
 
 </div>
-
-
-[Разметка](/home/Markdown "Вперед")
