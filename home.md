@@ -2,7 +2,7 @@
 title: База знаний
 description: Сводная страница разделов WIKI
 published: true
-date: 2025-04-11T15:13:18.788Z
+date: 2025-04-11T15:55:09.535Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T12:15:39.169Z
@@ -38,7 +38,7 @@ dateCreated: 2025-03-30T12:15:39.169Z
     padding: 8px 12px;
     position: absolute;
     z-index: 1;
-    top: 110%; /* Появляется СНИЗУ */
+    top: 105%; /* Появляется СНИЗУ */
     left: 50%;
     transform: translateX(-50%);
     font-family: 'Comic Sans MS', cursive, sans-serif;
