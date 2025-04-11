@@ -2,7 +2,7 @@
 title: База знаний
 description: Сводная страница разделов WIKI
 published: true
-date: 2025-04-08T22:30:46.091Z
+date: 2025-04-11T07:20:17.762Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T12:15:39.169Z
@@ -25,4 +25,6 @@ dateCreated: 2025-03-30T12:15:39.169Z
 }
 </style>
 
-# Руководство по разметке в markdown 
+# Руководство по разметке в markdown
+
+[Разметка](/home/Markdown "Вперед")
